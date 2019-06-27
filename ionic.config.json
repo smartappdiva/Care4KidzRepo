@@ -1,5 +1,7 @@
 {
   "name": "Care4Kidz",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
